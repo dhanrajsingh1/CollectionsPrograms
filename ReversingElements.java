@@ -17,6 +17,5 @@ public class ReversingElements {
             al.set(j, temp);
         }
         System.out.println(al);
-        
     }
 }
